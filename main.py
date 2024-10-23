@@ -5,7 +5,7 @@
             the game will provide feedback for each input
             correct letter in the correct position - green 
             correct letter but different position - yellow 
-            wrong letter - red : added to the list of incorrect letters 
+            wrong letter - red 
 """
 # libraries
 import random
